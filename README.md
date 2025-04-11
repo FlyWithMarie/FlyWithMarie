@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FlyWithMarie
-- 👀 I’m interested in QA.
-- 🌱 I’m currently learning basics
+- 👀 I’m a Manual QA specialst.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: e-mail, linkedIn.
 - 😄 Pronouns: 
